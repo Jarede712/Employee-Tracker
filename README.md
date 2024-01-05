@@ -21,7 +21,7 @@ To install and use this application, first download the files from the repositor
 This project is intended to be used by any company or business that needs a simple, free, application that will let them track their employees by department or role. They can see a simple breakdown of salary for each as well as any other information they choose to add to the database.
 
 ## Demo Video
-![Demo] "./media/Employee_Tracker_Demo.webm"
+![Demo] "./media/Employee_Tracker_Demo.gif"
 
 ## License
 This project is licensed under the MIT - see the [LICENSE](https://opensource.org/licenses/MIT) for details.
